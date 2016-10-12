@@ -1,4 +1,4 @@
-# Nonlinear_filtering
+# Nonlinear filtering
 # Нелинейная фильтрация
 
 1.  Адаптивный локальный фильтр подавления шума.
